@@ -9,7 +9,7 @@
 - визуализация **seaborn** и **matplotlib.pyplot**
 - корреляция **phik**
 - работа с библиотекой **sklearn**
-- использование линейных моделей, DecisionTree, KNN
+- использование **линейных моделей, DecisionTree, KNN, ансамбля RandomForest**
 - создание собственных метрик **make_scorer**
 - пайплайны для подготовки данных и поиска лучшей моделей с подбором гиперпараметров
 - анализ важности признаков **SHAP, sklearn.inspection.permutation_importance**
