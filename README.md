@@ -6,4 +6,6 @@
 | [Прогнозирование количества заказов такси на следующий час](https://github.com/annavntv/portfolio-DS/tree/main/taxi_orders_tsa)    | Построила модель для предсказания количества заказов такси на следующий час.  | TSA, statsmodels, pandas, sklearn    |
 | [Оптимизация управления персоналом: анализ оттока сотрудников](https://github.com/annavntv/portfolio-DS/tree/main/hr_analytics)   | Подобрала модели машинного обучения, чтобы  предсказать отток сотрудников и и выделить основные признаки, влияющие на удовлетворённость сотрудника работой в компании.   |  pandas, seaborn, matplotlib, sklearn, ансамбли моделей, анализ важности признаков   |
 | [Анализ тональности текста для нового сервиса интернет-магазина](https://github.com/annavntv/portfolio-DS/tree/main/nlp_comments)   | Построила модель, которая классифицирует комментарии на токсичные и нет.| NLP, spacy, word2vec, nltk, tf-idf, BERT |
+| [Определение возраста покупателей супермаркета](https://github.com/annavntv/portfolio-DS/tree/main/5_cv_age_prediction)  | Построила модель, которая прогнозирует возраст по фотографии | СNN, keras, ResNet |
+
 
