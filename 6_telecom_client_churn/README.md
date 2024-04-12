@@ -1,6 +1,6 @@
 # Телеком: прогноз оттока клиентов
 
-[отчет для чтения](https://disk.yandex.ru/d/PsM92-WRMZQtuA)
+[отчет для чтения (графики plotly не отображаются в гитхаб)](https://disk.yandex.ru/d/PsM92-WRMZQtuA)
 
 **Описание:**
 
