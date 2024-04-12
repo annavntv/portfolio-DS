@@ -1,6 +1,6 @@
 # Телеком: прогноз оттока клиентов
 
-[отчет для чтения]()
+[отчет для чтения](https://github.com/annavntv/portfolio-DS/blob/main/6_telecom_client_churn/telecom_clients_churn.html)
 
 **Описание:**
 
